@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	<!--Titre du QCM-->
+	<question type="category">
+		<category>
+			<text><![CDATA[<infos><name>Mme de La Fayette Princesse de Clèves</name><answernumbering>123</answernumbering><niveau>1ERE</niveau><matiere>FRANCAIS</matiere></infos>]]></text>
+		</category>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Il est question que le duc de Nemours épouse</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[Elisabeth d'Angleterre.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Marie Stuart.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Marie Tudor.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Le prince de Clèves rencontre pour la première fois Mlle de Clèves</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[chez un joaillier.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[dans un église.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[lors d'un bal.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">L'histoire de Mme de Valentinois avec Henri II est racontée&nbsp;</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[à la fin du roman.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[au début du roman.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[au milieu du roman.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Mme de Tournon est</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[une veuve éplorée qui a deux amants en même temps. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[une veuve éplorée qui se suicide.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[une veuve éploréée amoureuse de M. de Clèves.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">L'homme qui tombe amoureux de Mme de Clèves d'un amour non réciproque s'appelle</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[le chevalier de Guise.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[le connétable de Montmorency.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[le duc de Nevers.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Le roman fait allusion à des événements politiques.&nbsp;</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[La fille du roi Henri II doit épouser le futur roi d'Angleterre.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[La soeur du roi Henri II doit épouser le duc de Savoie et la fille du roi Henri II doit épouser le roi d'Espagne.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[la soeur du roi Henri Ii doit épouser le roi d'Espagne et la fille de Henri II doit épouser le duc de Savoie.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Lors d'une séance de prédiction avec un astrologue, on annonce au roi Henri II qu'il mourra</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[la tête fracassée par le sabot d'un cheval.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[lors d'un tournoi.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[tué par derrière.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">On raconte à la princesse de Clèves l'histoire de Henri VIII, roi d'Angleterre et d'Anne Bolyen. C'est</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[la reine dauphine qui fait le récit.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[le prince de Clèves qui fait le récit.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Mme de Chartres qui fait le récit.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Le duc de Nemours fait une chute de cheval lors d'un tournoi. Mme de Clèves montre un visage angoissé.</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[le duc de Guise comprend que Mme de Clèves aime le duc de Nemours.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[le prince de Clèves comprend que son épouse aime le duc de Nemours. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Mme la Dauphine comprend que Mme de Clèves aime le duc de Nemours. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Le duc de Nemours fait tomber une lettre d'amour d'une femme qui lui reproche de l'avoir trahie. Cette lettre est récupérée par Chatelart et remise par la reine Dauphine à</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[la duchesse de Valentinois.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[la reine Catherine de Médicis.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[la reine Dauphine. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Cette lettre que l'on croyait écrite par le duc de Nemours est en réalité une lettre écrite par</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[le connétable de Montmorency.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[le duc de Guise.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[le vidame de Chartres. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Mme de Clèves explique à son mari qu'elle aime un autre homme que lui.&nbsp;</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[Elle cache à son époux le nom de cet homme.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Elle ment sur l'identité de cet homme. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Elle révèle à son époux le nom de cet homme. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">L'amant, qui entend la conversation, alors qu'il est caché,</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[comprend que c(est lui, l'heureux élu. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[croit que Mme de Clèves aime un autre homme que lui et en conçoit de la jalousie.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[ne parvient pas à savoir si c'est lui, l'heureux élu.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Le vidame de Chartres perd la sympathie de la reine mère Catherine de Médicis à cause&nbsp;</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[d'une histoire de lettre faussement attribuée au duc de Nemours. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[du cardinal de Lorraine.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[du chevalier de Guise.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Lors d'un tournoi, le duc de Nemours porte les couleurs préférées de Mme de Clèves. Il s'agit&nbsp;</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[du bleu et du vert.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[du jaune et du noir. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[du rose et du bleu.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Pour fuir l'homme qu'elle aime, Mme de Clèves part pour&nbsp;</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Combourg.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[Coulommiers.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Grignan.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Un personnage important de la cour conduit Mme Elisabeth en Espagne pour qu'elle se marie. Il s'agit&nbsp;</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[du duc de Guise. ]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[du prince de Clèves.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[du roi de Navarre.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Le prince de Clèves meurt&nbsp;</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[d'un cancer.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[de jalousie.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[de vieillesse.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">Le nouveau roi François II est sacré à&nbsp;</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Chartres.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Paris.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[Reims.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text><![CDATA[]]></text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<div style="font-family: Arial; font-size: 13px;">A la fin du roman, pour parler à Mme de Clèves, le duc de Nemours passe par&nbsp;</div>]]></text>
+		</questiontext>
+		<externallink/>
+		<usecase>1</usecase>
+		<defaultgrade>1</defaultgrade>
+		<editeur>0</editeur>
+		<single>false</single>
+		<answer fraction="100" format="plain_text">
+			<text><![CDATA[le vidame de Chartres.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Marie Stuart.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="plain_text">
+			<text><![CDATA[Mme de Martigues.]]></text>
+			<feedback>
+				<text><![CDATA[]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>
